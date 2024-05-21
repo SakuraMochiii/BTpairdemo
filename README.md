@@ -1,2 +1,2 @@
 # BTpairdemo
-An normal Android demo for bluetooth device pairing
+This is a simple demo for Bluetooth device pairing.
